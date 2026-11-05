@@ -1,37 +1,102 @@
-/* CTeen Movie Night - elegant design v7 (external, GitHub Pages; scoped to test article 7606979; edge-to-edge 2:1 banner) */
-body.aid-7606979{background-color:#f7f1e6 !important;background-image:radial-gradient(circle at 10% 12%,rgba(200,160,95,.12),rgba(200,160,95,0) 240px),radial-gradient(circle at 90% 88%,rgba(200,160,95,.12),rgba(200,160,95,0) 240px),repeating-linear-gradient(45deg,rgba(180,140,80,.04) 0 2px,rgba(0,0,0,0) 2px 16px) !important;}
-body.aid-7606979 .form-all{background:#fff;border:1px solid #ece0c6;border-radius:14px;box-shadow:0 2px 16px rgba(110,85,45,.10);padding:26px 28px;}
-body.aid-7606979 .form-all .mn-intro{max-width:620px;margin:4px auto 22px;padding:26px 26px 22px;background:#fdfaf3;border:1px solid #e9dcc0;border-top:3px solid #c8a05f;border-radius:14px;text-align:center;box-shadow:0 1px 4px rgba(120,90,40,.08);}
-body.aid-7606979 .form-all .mn-intro p.mn-kicker{font-family:'Cormorant Garamond',Georgia,serif !important;letter-spacing:3px;text-transform:uppercase;font-size:13px !important;color:#a5824f !important;margin:0 0 6px;}
-body.aid-7606979 .form-all .mn-intro p.mn-title{font-family:'Cormorant Garamond',Georgia,serif !important;font-size:32px !important;font-weight:600;color:#3d3126 !important;line-height:1.15;margin:0 0 6px;}
-body.aid-7606979 .form-all .mn-intro p.mn-title::after{content:"";display:block;width:56px;height:1px;background:#c8a05f;margin:10px auto 12px;}
-body.aid-7606979 .form-all .mn-intro p.mn-details{font-size:16px !important;color:#5a4d3a !important;letter-spacing:.4px;margin:0;}
-body.aid-7606979 .form-all .mn-intro p.mn-note{font-family:'Cormorant Garamond',Georgia,serif !important;font-style:italic;font-size:16px !important;color:#8a7350 !important;margin:10px 0 0;}
-@media (max-width:600px){body.aid-7606979 .form-all{padding:18px 14px;}body.aid-7606979 .form-all .mn-intro p.mn-title{font-size:26px !important;}body.aid-7606979 .form-all .mn-intro{padding:20px 16px;}}
-@media (prefers-reduced-motion:no-preference){@keyframes mnFadeUp{from{opacity:0;transform:translateY(16px);}to{opacity:1;transform:none;}}
-@supports (animation-timeline:view()){body.aid-7606979 .form-line{animation:mnFadeUp .6s ease-out both;animation-timeline:view();animation-range:entry 0% entry 55%;}}}
-body.aid-7606979 .form-all li#id_24.form-line{margin:-40px -20px 16px !important;padding:0 !important;width:auto !important;}
-body.aid-7606979 .form-all #text_24.form-html{padding:0 !important;}
-body.aid-7606979 .form-all .mn-flyer{margin:0;text-align:center;}
-body.aid-7606979 .form-all .mn-flyer img{width:100%;max-width:none;display:block;height:auto;border:none;border-radius:13px 13px 0 0;box-shadow:none;}
-body.aid-7606979 .form-all .mn-welcome{max-width:640px;margin:6px auto 24px;text-align:center;padding:26px 26px 22px;background:#fdfaf3;border:1px solid #e9dcc0;border-top:3px solid #c8a05f;border-radius:14px;box-shadow:0 1px 4px rgba(120,90,40,.08);}
-body.aid-7606979 .form-all .mn-welcome p.mn-kicker{font-family:'Cormorant Garamond',Georgia,serif !important;letter-spacing:3px;text-transform:uppercase;font-size:13px !important;color:#a5824f !important;margin:0 0 6px;}
-body.aid-7606979 .form-all .mn-welcome p.mn-title{font-family:'Cormorant Garamond',Georgia,serif !important;font-size:32px !important;font-weight:600;color:#3d3126 !important;line-height:1.15;margin:0 0 6px;}
-body.aid-7606979 .form-all .mn-welcome p.mn-title::after{content:"";display:block;width:56px;height:1px;background:#c8a05f;margin:10px auto 12px;}
-body.aid-7606979 .form-all .mn-welcome p.mn-body{font-size:16px !important;color:#5a4d3a !important;line-height:1.5;margin:0;}
-body.aid-7606979 .form-all .mn-details{max-width:640px;margin:0 auto 24px;text-align:center;padding:16px 20px;background:#fdfaf3;border:1px solid #e9dcc0;border-radius:14px;}
-body.aid-7606979 .form-all p.mn-sec{font-family:'Cormorant Garamond',Georgia,serif !important;letter-spacing:3px;text-transform:uppercase;font-size:13px !important;color:#a5824f !important;margin:0 0 8px;text-align:center;}
-body.aid-7606979 .form-all .mn-details p.mn-dline{font-size:16px !important;color:#3d3126 !important;margin:4px 0;}
-body.aid-7606979 .form-all .mn-rsvp{text-align:center;margin:0 auto 8px;}
-body.aid-7606979 .form-all .mn-rsvp p.mn-sub{font-size:15px !important;color:#5a4d3a !important;margin:0;}
-body.aid-7606979 .form-all .mn-qa{max-width:640px;margin:6px auto 0;padding:18px 24px;background:#fdfaf3;border:1px solid #e9dcc0;border-radius:14px;}
-body.aid-7606979 .form-all .mn-qa p.mn-q{font-weight:600;color:#3d3126 !important;margin:12px 0 2px;font-size:15px !important;}
-body.aid-7606979 .form-all .mn-qa p.mn-a{color:#5a4d3a !important;margin:0;font-size:15px !important;line-height:1.45;}
-body.aid-7606979 .form-all .mn-contact{text-align:center;margin:14px auto 0;font-size:15px;color:#5a4d3a;}
-body.aid-7606979 .form-all .mn-contact p.mn-cline{margin:3px 0;font-size:15px !important;color:#5a4d3a !important;}
-body.aid-7606979 .form-all .mn-contact a{color:#a5824f;}
-body.aid-7606979 .form-all .form-label-left, body.aid-7606979 .form-all .form-label-top{font-size:15px !important;color:#3d3126 !important;font-weight:600;margin-bottom:6px;}
-body.aid-7606979 .form-all input.form-textbox, body.aid-7606979 .form-all select.form-dropdown, body.aid-7606979 .form-all textarea{border:1px solid #e0d3b3 !important;border-radius:10px;padding:12px 14px;font-size:15px;color:#3d3126;background:#fff;box-shadow:inset 0 1px 3px rgba(110,85,45,.06);outline:none;}
-body.aid-7606979 .form-all input.form-textbox:focus, body.aid-7606979 .form-all select.form-dropdown:focus, body.aid-7606979 .form-all textarea:focus{border-color:#c8a05f !important;box-shadow:0 0 0 3px rgba(200,160,95,.18);}
-body.aid-7606979 .form-all .form-radio-item, body.aid-7606979 .form-all .form-checkbox-item{padding:6px 0;font-size:15px;color:#3d3126;}
-body.aid-7606979 .form-all .form-submit-button{border-radius:10px !important;font-size:17px !important;padding:14px 34px !important;letter-spacing:.4px;}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+/* CTeen Movie Night - page redesign v8 (external, GitHub Pages; scoped to test article 7606979)
+   Designed-page language: ivory page, Cormorant display + Inter body, teal accent, open sections - no stacked cards. */
+
+/* ---------- page shell ---------- */
+body.aid-7606979{background-color:#f1efe8 !important;background-image:none !important;font-family:'Inter',Arial,sans-serif;overflow-x:hidden;}
+body.aid-7606979 .article-header{display:none;} /* default "TEST - ..." page title replaced by the designed hero */
+body.aid-7606979 .form-all{background:transparent !important;border:none !important;box-shadow:none !important;padding:0 !important;width:100%;max-width:945px !important;margin:0 auto;}
+body.aid-7606979 li.form-line{width:100% !important;max-width:680px !important;margin:18px auto 0;padding-left:0;padding-right:0;box-sizing:border-box;}
+body.aid-7606979 li.form-line:has(.form-html){margin-top:0;}
+body.aid-7606979 li.form-line .form-input-wide,body.aid-7606979 li.form-line .form-input{width:100% !important;max-width:100% !important;}
+body.aid-7606979 .form-html{max-width:100%;}
+body.aid-7606979 li#id_23,body.aid-7606979 li#id_24,body.aid-7606979 li#id_25{max-width:945px !important;padding:0 !important;}
+
+/* ---------- hero banner ---------- */
+body.aid-7606979 li#id_24{margin:0 auto;}
+body.aid-7606979 #text_24{padding:0 !important;}
+body.aid-7606979 .mn-flyer{margin:0;}
+body.aid-7606979 .mn-flyer img{width:100%;max-width:none;display:block;height:auto;border:none;border-radius:16px;box-shadow:0 18px 40px rgba(21,48,58,.16);}
+
+/* ---------- shared section typography ---------- */
+body.aid-7606979 .form-all p.mn-kicker{font-family:'Inter',Arial,sans-serif !important;font-weight:600;letter-spacing:2.6px;text-transform:uppercase;font-size:11px !important;color:#123f49 !important;margin:0;}
+body.aid-7606979 .form-all p.mn-title{font-family:'Cormorant Garamond',Georgia,serif !important;font-size:46px !important;font-weight:500;color:#15303a !important;line-height:1.12;margin:0;}
+body.aid-7606979 .form-all p.mn-body{font-family:'Inter',Arial,sans-serif !important;font-size:17px !important;line-height:1.6;color:#343333 !important;margin:0;}
+body.aid-7606979 .form-all p.mn-sec{font-family:'Cormorant Garamond',Georgia,serif !important;letter-spacing:0;text-transform:none;font-size:32px !important;font-weight:500;color:#15303a !important;margin:0 0 6px;text-align:left;}
+
+/* ---------- welcome: split row, no card ---------- */
+body.aid-7606979 .mn-welcome{margin:34px 0 0;padding:34px 0 30px;border-bottom:1px solid #dcd5c3;text-align:left;display:flex;flex-wrap:wrap;gap:8px 56px;align-items:flex-start;}
+body.aid-7606979 .mn-welcome p.mn-kicker{flex:0 0 100%;}
+body.aid-7606979 .mn-welcome p.mn-title{flex:0 0 340px;}
+body.aid-7606979 .mn-welcome p.mn-body{flex:1;padding-top:6px;}
+
+/* ---------- details: open strip with hairline dividers ---------- */
+body.aid-7606979 .mn-details{margin:0;padding:24px 0;border-bottom:1px solid #dcd5c3;display:flex;flex-wrap:wrap;}
+body.aid-7606979 .mn-details p.mn-sec{flex:0 0 100%;margin:0 0 14px;}
+body.aid-7606979 .mn-details p.mn-dline{flex:1;font-family:'Inter',Arial,sans-serif !important;font-size:15px !important;font-weight:500;line-height:1.5;color:#15303a !important;margin:0;padding:4px 20px;text-align:center;}
+body.aid-7606979 .mn-details p.mn-dline:first-of-type{padding-left:0;}
+body.aid-7606979 .mn-details p.mn-dline:last-of-type{padding-right:0;}
+body.aid-7606979 .mn-details p.mn-dline + p.mn-dline{border-left:1px solid #dcd5c3;}
+
+/* ---------- save your seat: serif section head above the form ---------- */
+body.aid-7606979 .mn-rsvp{max-width:680px;margin:0 auto;padding:44px 0 4px;text-align:left;}
+body.aid-7606979 .mn-rsvp p.mn-sub{font-family:'Inter',Arial,sans-serif !important;font-size:15px !important;color:#5a5a54 !important;margin:4px 0 0;}
+
+/* ---------- form fields ---------- */
+body.aid-7606979 .form-all .form-label-left,body.aid-7606979 .form-all .form-label-top{font-family:'Inter',Arial,sans-serif !important;font-size:11px !important;letter-spacing:1.6px;text-transform:uppercase;font-weight:600;color:#123f49 !important;margin-bottom:8px;}
+body.aid-7606979 .form-all .form-label-left .form-required,body.aid-7606979 .form-all .form-label-top .form-required{color:#b3543f !important;}
+body.aid-7606979 .form-all input.form-textbox,body.aid-7606979 .form-all select.form-dropdown,body.aid-7606979 .form-all textarea{font-family:'Inter',Arial,sans-serif !important;border:1px solid #d8d1bf !important;border-radius:8px;padding:13px 14px;font-size:15px;color:#343333;background:#fff;box-shadow:none;outline:none;box-sizing:border-box;}
+body.aid-7606979 .form-all input.form-textbox:focus,body.aid-7606979 .form-all select.form-dropdown:focus,body.aid-7606979 .form-all textarea:focus{border-color:#0a7187 !important;box-shadow:0 0 0 3px rgba(10,113,135,.15);}
+body.aid-7606979 .form-all .form-sub-label{font-family:'Inter',Arial,sans-serif !important;font-size:12.5px;color:#8a877c !important;}
+body.aid-7606979 .form-all .form-html p,body.aid-7606979 .form-all .form-html{font-family:'Inter',Arial,sans-serif;font-size:15px;line-height:1.6;color:#5a5a54;}
+
+/* ---------- donation + payment option boxes ---------- */
+body.aid-7606979 .form-all .form-radio-item,body.aid-7606979 .form-all .form-checkbox-item{font-family:'Inter',Arial,sans-serif;font-size:15px;color:#343333;padding:0;}
+body.aid-7606979 .form-all input[type=radio],body.aid-7606979 .form-all input[type=checkbox]{accent-color:#0a7187;width:17px;height:17px;}
+body.aid-7606979 li#id_17 .form-input-wide{display:flex;flex-wrap:wrap;gap:10px;}
+body.aid-7606979 li#id_17 .form-radio-item{border:1px solid #d8d1bf;border-radius:8px;background:#fff;padding:12px 18px;display:inline-flex;align-items:center;gap:8px;flex:0 0 auto;}
+body.aid-7606979 li#id_17 .form-radio-item:has(input:checked){border-color:#0a7187;background:#eef5f5;box-shadow:0 0 0 1px #0a7187;}
+body.aid-7606979 li#id_17 .form-radio-other-input{border:none !important;background:transparent;padding:2px 4px;font-size:15px;width:110px;}
+body.aid-7606979 li#id_17 .form-radio-item:has(.form-radio-other-input){flex:1 1 100%;}
+body.aid-7606979 li#id_16 .form-radio-item{border:1px solid #d8d1bf;border-radius:8px;background:#fff;padding:12px 16px;margin-bottom:8px;display:flex;align-items:center;gap:10px;}
+body.aid-7606979 li#id_16 .form-radio-item:has(input:checked){border-color:#0a7187;background:#eef5f5;}
+body.aid-7606979 li#id_16 .form-radio-item:has(input:disabled){opacity:.55;background:#f4f2ea;}
+body.aid-7606979 .form-all .payment-form-table input,body.aid-7606979 .form-all .payment-form-table select{border:1px solid #d8d1bf;border-radius:8px;padding:11px 12px;font-size:15px;background:#fff;max-width:100%;}
+
+/* ---------- submit ---------- */
+body.aid-7606979 li#id_2{margin:34px auto 0;text-align:center;}
+body.aid-7606979 .form-all .form-submit-button{font-family:'Inter',Arial,sans-serif !important;background:#0a7187 !important;color:#fff !important;border:none;border-radius:6px !important;font-size:14px !important;font-weight:600;letter-spacing:1.8px;text-transform:uppercase;padding:17px 46px !important;box-shadow:0 8px 20px rgba(10,113,135,.25);}
+body.aid-7606979 .form-all .form-submit-button:hover{background:#0c829b !important;}
+
+/* ---------- quick answers: 3-column tiles ---------- */
+body.aid-7606979 li#id_25{margin:56px auto 0;}
+body.aid-7606979 .mn-qa{display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px;}
+body.aid-7606979 .mn-qa p.mn-sec{grid-column:1 / -1;margin:0 0 6px;}
+body.aid-7606979 .mn-qa .mn-item{background:#eef3f1;border-radius:12px;padding:18px 20px;}
+body.aid-7606979 .mn-qa p.mn-q{font-family:'Cormorant Garamond',Georgia,serif !important;font-weight:500;font-size:21px !important;color:#15303a !important;margin:0 0 6px;}
+body.aid-7606979 .mn-qa p.mn-a{font-family:'Inter',Arial,sans-serif !important;color:#4a4a45 !important;font-size:14.5px !important;line-height:1.55;margin:0;}
+
+/* ---------- contact: dark closing band ---------- */
+body.aid-7606979 .mn-contact{margin:42px 0 8px;background:#15303a;border-radius:16px;text-align:center;padding:38px 24px 34px;}
+body.aid-7606979 .mn-contact p.mn-sec{color:#fff !important;text-align:center;font-size:26px !important;margin:0 0 14px;}
+body.aid-7606979 .mn-contact p.mn-cline{font-family:'Inter',Arial,sans-serif !important;margin:5px 0;font-size:15px !important;color:#cdd8da !important;}
+body.aid-7606979 .mn-contact a{color:#d9b978;text-decoration:none;border-bottom:1px solid rgba(217,185,121,.45);}
+body.aid-7606979 .mn-contact a:hover{color:#eed3a0;}
+
+/* ---------- phone / small screens ---------- */
+@media (max-width:760px){
+body.aid-7606979 .content_page,body.aid-7606979 .chabad_left_column,body.aid-7606979 .content-area-parent,body.aid-7606979 .content-area-parent *,body.aid-7606979 .g960.footer,body.aid-7606979 .site-footer .container{max-width:100% !important;}
+body.aid-7606979 form.userform-form{max-width:100% !important;width:100% !important;}
+body.aid-7606979 .form-all{padding:0 16px !important;box-sizing:border-box;}
+body.aid-7606979 .mn-flyer img{border-radius:12px;}
+body.aid-7606979 .mn-welcome{flex-direction:column;gap:8px;padding:26px 0 22px;margin-top:22px;}
+body.aid-7606979 .mn-welcome p.mn-kicker,body.aid-7606979 .mn-welcome p.mn-title,body.aid-7606979 .mn-welcome p.mn-body{flex:1 1 auto;}
+body.aid-7606979 .form-all p.mn-title{font-size:32px !important;}
+body.aid-7606979 .mn-details{flex-direction:column;gap:0;padding:20px 0;}
+body.aid-7606979 .mn-details p.mn-sec{margin:0 0 12px;}
+body.aid-7606979 .mn-details p.mn-dline{padding:10px 0 !important;text-align:left;}
+body.aid-7606979 .mn-details p.mn-dline + p.mn-dline{border-left:none;border-top:1px solid #dcd5c3;}
+body.aid-7606979 .mn-qa{grid-template-columns:1fr;}
+body.aid-7606979 .mn-contact{margin-left:0;margin-right:0;border-radius:12px;}
+body.aid-7606979 .form-all .form-submit-button{width:100%;padding:17px 20px !important;}
+}
