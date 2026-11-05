@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
-/* CTeen Movie Night - page redesign v8 (external, GitHub Pages; scoped to test article 7606979)
+/* CTeen Movie Night - page redesign v8.1 (external, GitHub Pages; scoped to test article 7606979)
    Designed-page language: ivory page, Cormorant display + Inter body, teal accent, open sections - no stacked cards. */
 
 /* ---------- page shell ---------- */
-body.aid-7606979{background-color:#f1efe8 !important;background-image:none !important;font-family:'Inter',Arial,sans-serif;overflow-x:hidden;}
+body.aid-7606979.cco_body{background-color:#f1efe8 !important;background-image:none !important;font-family:'Inter',Arial,sans-serif;overflow-x:hidden;}
 body.aid-7606979 .article-header{display:none;} /* default "TEST - ..." page title replaced by the designed hero */
 body.aid-7606979 .form-all{background:transparent !important;border:none !important;box-shadow:none !important;padding:0 !important;width:100%;max-width:945px !important;margin:0 auto;}
 body.aid-7606979 li.form-line{width:100% !important;max-width:680px !important;margin:18px auto 0;padding-left:0;padding-right:0;box-sizing:border-box;}
