@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
-/* CTeen Movie Night - page redesign v8.1 (external, GitHub Pages; scoped to test article 7606979)
+/* CTeen Movie Night - page redesign v8.2 (external, GitHub Pages; scoped to test article 7606979)
    Designed-page language: ivory page, Cormorant display + Inter body, teal accent, open sections - no stacked cards. */
 
 /* ---------- page shell ---------- */
@@ -54,13 +54,13 @@ body.aid-7606979 .form-all .form-html p,body.aid-7606979 .form-all .form-html{fo
 body.aid-7606979 .form-all .form-radio-item,body.aid-7606979 .form-all .form-checkbox-item{font-family:'Inter',Arial,sans-serif;font-size:15px;color:#343333;padding:0;}
 body.aid-7606979 .form-all input[type=radio],body.aid-7606979 .form-all input[type=checkbox]{accent-color:#0a7187;width:17px;height:17px;}
 body.aid-7606979 li#id_17 .form-input-wide{display:flex;flex-wrap:wrap;gap:10px;}
-body.aid-7606979 li#id_17 .form-radio-item{border:1px solid #d8d1bf;border-radius:8px;background:#fff;padding:12px 18px;display:inline-flex;align-items:center;gap:8px;flex:0 0 auto;}
-body.aid-7606979 li#id_17 .form-radio-item:has(input:checked){border-color:#0a7187;background:#eef5f5;box-shadow:0 0 0 1px #0a7187;}
+body.aid-7606979 li#id_17 .form-radio-item{border:1px solid #d8d1bf !important;border-radius:8px;background:#fff !important;padding:12px 18px;display:inline-flex;align-items:center;gap:8px;flex:0 0 auto;}
+body.aid-7606979 li#id_17 .form-radio-item:has(input:checked){border-color:#0a7187 !important;background:#eef5f5 !important;box-shadow:0 0 0 1px #0a7187;}
 body.aid-7606979 li#id_17 .form-radio-other-input{border:none !important;background:transparent;padding:2px 4px;font-size:15px;width:110px;}
 body.aid-7606979 li#id_17 .form-radio-item:has(.form-radio-other-input){flex:1 1 100%;}
-body.aid-7606979 li#id_16 .form-radio-item{border:1px solid #d8d1bf;border-radius:8px;background:#fff;padding:12px 16px;margin-bottom:8px;display:flex;align-items:center;gap:10px;}
-body.aid-7606979 li#id_16 .form-radio-item:has(input:checked){border-color:#0a7187;background:#eef5f5;}
-body.aid-7606979 li#id_16 .form-radio-item:has(input:disabled){opacity:.55;background:#f4f2ea;}
+body.aid-7606979 li#id_16 .form-radio-item{border:1px solid #d8d1bf !important;border-radius:8px;background:#fff !important;padding:12px 16px;margin-bottom:8px;display:flex;align-items:center;gap:10px;}
+body.aid-7606979 li#id_16 .form-radio-item:has(input:checked){border-color:#0a7187 !important;background:#eef5f5 !important;}
+body.aid-7606979 li#id_16 .form-radio-item:has(input:disabled){opacity:.55;background:#f4f2ea !important;}
 body.aid-7606979 .form-all .payment-form-table input,body.aid-7606979 .form-all .payment-form-table select{border:1px solid #d8d1bf;border-radius:8px;padding:11px 12px;font-size:15px;background:#fff;max-width:100%;}
 
 /* ---------- submit ---------- */
@@ -99,4 +99,4 @@ body.aid-7606979 .mn-details p.mn-dline + p.mn-dline{border-left:none;border-top
 body.aid-7606979 .mn-qa{grid-template-columns:1fr;}
 body.aid-7606979 .mn-contact{margin-left:0;margin-right:0;border-radius:12px;}
 body.aid-7606979 .form-all .form-submit-button{width:100%;padding:17px 20px !important;}
-}
+                                               }
