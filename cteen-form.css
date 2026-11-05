@@ -1,4 +1,4 @@
-/* CTeen Movie Night - elegant design v6 (external, GitHub Pages; scoped to test article 7606979; edge-to-edge 2:1 banner) */
+/* CTeen Movie Night - elegant design v7 (external, GitHub Pages; scoped to test article 7606979; edge-to-edge 2:1 banner) */
 body.aid-7606979{background-color:#f7f1e6 !important;background-image:radial-gradient(circle at 10% 12%,rgba(200,160,95,.12),rgba(200,160,95,0) 240px),radial-gradient(circle at 90% 88%,rgba(200,160,95,.12),rgba(200,160,95,0) 240px),repeating-linear-gradient(45deg,rgba(180,140,80,.04) 0 2px,rgba(0,0,0,0) 2px 16px) !important;}
 body.aid-7606979 .form-all{background:#fff;border:1px solid #ece0c6;border-radius:14px;box-shadow:0 2px 16px rgba(110,85,45,.10);padding:26px 28px;}
 body.aid-7606979 .form-all .mn-intro{max-width:620px;margin:4px auto 22px;padding:26px 26px 22px;background:#fdfaf3;border:1px solid #e9dcc0;border-top:3px solid #c8a05f;border-radius:14px;text-align:center;box-shadow:0 1px 4px rgba(120,90,40,.08);}
@@ -14,3 +14,24 @@ body.aid-7606979 .form-all li#id_24.form-line{margin:-40px -20px 16px !important
 body.aid-7606979 .form-all #text_24.form-html{padding:0 !important;}
 body.aid-7606979 .form-all .mn-flyer{margin:0;text-align:center;}
 body.aid-7606979 .form-all .mn-flyer img{width:100%;max-width:none;display:block;height:auto;border:none;border-radius:13px 13px 0 0;box-shadow:none;}
+body.aid-7606979 .form-all .mn-welcome{max-width:640px;margin:6px auto 24px;text-align:center;padding:26px 26px 22px;background:#fdfaf3;border:1px solid #e9dcc0;border-top:3px solid #c8a05f;border-radius:14px;box-shadow:0 1px 4px rgba(120,90,40,.08);}
+body.aid-7606979 .form-all .mn-welcome p.mn-kicker{font-family:'Cormorant Garamond',Georgia,serif !important;letter-spacing:3px;text-transform:uppercase;font-size:13px !important;color:#a5824f !important;margin:0 0 6px;}
+body.aid-7606979 .form-all .mn-welcome p.mn-title{font-family:'Cormorant Garamond',Georgia,serif !important;font-size:32px !important;font-weight:600;color:#3d3126 !important;line-height:1.15;margin:0 0 6px;}
+body.aid-7606979 .form-all .mn-welcome p.mn-title::after{content:"";display:block;width:56px;height:1px;background:#c8a05f;margin:10px auto 12px;}
+body.aid-7606979 .form-all .mn-welcome p.mn-body{font-size:16px !important;color:#5a4d3a !important;line-height:1.5;margin:0;}
+body.aid-7606979 .form-all .mn-details{max-width:640px;margin:0 auto 24px;text-align:center;padding:16px 20px;background:#fdfaf3;border:1px solid #e9dcc0;border-radius:14px;}
+body.aid-7606979 .form-all p.mn-sec{font-family:'Cormorant Garamond',Georgia,serif !important;letter-spacing:3px;text-transform:uppercase;font-size:13px !important;color:#a5824f !important;margin:0 0 8px;text-align:center;}
+body.aid-7606979 .form-all .mn-details p.mn-dline{font-size:16px !important;color:#3d3126 !important;margin:4px 0;}
+body.aid-7606979 .form-all .mn-rsvp{text-align:center;margin:0 auto 8px;}
+body.aid-7606979 .form-all .mn-rsvp p.mn-sub{font-size:15px !important;color:#5a4d3a !important;margin:0;}
+body.aid-7606979 .form-all .mn-qa{max-width:640px;margin:6px auto 0;padding:18px 24px;background:#fdfaf3;border:1px solid #e9dcc0;border-radius:14px;}
+body.aid-7606979 .form-all .mn-qa p.mn-q{font-weight:600;color:#3d3126 !important;margin:12px 0 2px;font-size:15px !important;}
+body.aid-7606979 .form-all .mn-qa p.mn-a{color:#5a4d3a !important;margin:0;font-size:15px !important;line-height:1.45;}
+body.aid-7606979 .form-all .mn-contact{text-align:center;margin:14px auto 0;font-size:15px;color:#5a4d3a;}
+body.aid-7606979 .form-all .mn-contact p.mn-cline{margin:3px 0;font-size:15px !important;color:#5a4d3a !important;}
+body.aid-7606979 .form-all .mn-contact a{color:#a5824f;}
+body.aid-7606979 .form-all .form-label-left, body.aid-7606979 .form-all .form-label-top{font-size:15px !important;color:#3d3126 !important;font-weight:600;margin-bottom:6px;}
+body.aid-7606979 .form-all input.form-textbox, body.aid-7606979 .form-all select.form-dropdown, body.aid-7606979 .form-all textarea{border:1px solid #e0d3b3 !important;border-radius:10px;padding:12px 14px;font-size:15px;color:#3d3126;background:#fff;box-shadow:inset 0 1px 3px rgba(110,85,45,.06);outline:none;}
+body.aid-7606979 .form-all input.form-textbox:focus, body.aid-7606979 .form-all select.form-dropdown:focus, body.aid-7606979 .form-all textarea:focus{border-color:#c8a05f !important;box-shadow:0 0 0 3px rgba(200,160,95,.18);}
+body.aid-7606979 .form-all .form-radio-item, body.aid-7606979 .form-all .form-checkbox-item{padding:6px 0;font-size:15px;color:#3d3126;}
+body.aid-7606979 .form-all .form-submit-button{border-radius:10px !important;font-size:17px !important;padding:14px 34px !important;letter-spacing:.4px;}
