@@ -85,6 +85,7 @@ body.aid-7606979 .mn-contact a:hover,body.aid-7606193 .mn-contact a:hover{color:
 
 /* ---------- phone / small screens ---------- */
 @media (max-width:760px){
+body.aid-7606979 .form-line#id_3,body.aid-7606193 .form-line#id_3,body.aid-7606979 .form-line#id_8,body.aid-7606193 .form-line#id_8,body.aid-7606979 .form-line#id_7,body.aid-7606193 .form-line#id_7,body.aid-7606979 .form-line#id_9,body.aid-7606193 .form-line#id_9,body.aid-7606979 .form-line#id_6,body.aid-7606193 .form-line#id_6,body.aid-7606979 .form-line#id_10,body.aid-7606193 .form-line#id_10,body.aid-7606979 .form-line#id_5,body.aid-7606193 .form-line#id_5,body.aid-7606979 .form-line#id_11,body.aid-7606193 .form-line#id_11,body.aid-7606979 .form-line#id_4,body.aid-7606193 .form-line#id_4,body.aid-7606979 .form-line#id_12,body.aid-7606193 .form-line#id_12,body.aid-7606979 .form-line#id_14,body.aid-7606193 .form-line#id_14,body.aid-7606979 .form-line#id_15,body.aid-7606193 .form-line#id_15{float:none !important;clear:both !important;width:100% !important;margin-left:0 !important;}
 body.aid-7606979 .content_page,body.aid-7606193 .content_page,body.aid-7606979 .chabad_left_column,body.aid-7606193 .chabad_left_column,body.aid-7606979 .content-area-parent,body.aid-7606193 .content-area-parent,body.aid-7606979 .content-area-parent *,body.aid-7606193 .content-area-parent *,body.aid-7606979 .g960.footer,body.aid-7606193 .g960.footer,body.aid-7606979 .site-footer .container,body.aid-7606193 .site-footer .container{max-width:100% !important;}
 body.aid-7606979 form.userform-form,body.aid-7606193 form.userform-form{max-width:100% !important;width:100% !important;}
 body.aid-7606979 .form-all,body.aid-7606193 .form-all{padding:0 16px !important;box-sizing:border-box;}
@@ -124,8 +125,10 @@ body.aid-7606979 .mn-qa p.mn-a,body.aid-7606193 .mn-qa p.mn-a{display:block;marg
 body.aid-7606979 .mn-qa.mn-js p.mn-a,body.aid-7606193 .mn-qa.mn-js p.mn-a{display:none;}
 body.aid-7606979 .mn-qa.mn-js .mn-item.open p.mn-a,body.aid-7606193 .mn-qa.mn-js .mn-item.open p.mn-a{display:block;}
 body.aid-7606979 .form-all p.mn-donate,body.aid-7606193 .form-all p.mn-donate{font-family:'Cormorant Garamond',Georgia,serif !important;font-size:32px !important;font-weight:500;color:#15303a !important;text-align:center;line-height:1.28;margin:30px auto 6px;max-width:660px;}
+@media (min-width:761px){
 body.aid-7606979 .form-line#id_3,body.aid-7606193 .form-line#id_3,body.aid-7606979 .form-line#id_7,body.aid-7606193 .form-line#id_7,body.aid-7606979 .form-line#id_6,body.aid-7606193 .form-line#id_6,body.aid-7606979 .form-line#id_5,body.aid-7606193 .form-line#id_5,body.aid-7606979 .form-line#id_4,body.aid-7606193 .form-line#id_4,body.aid-7606979 .form-line#id_14,body.aid-7606193 .form-line#id_14{float:left !important;clear:left !important;width:47.5% !important;}
 body.aid-7606979 .form-line#id_8,body.aid-7606193 .form-line#id_8,body.aid-7606979 .form-line#id_9,body.aid-7606193 .form-line#id_9,body.aid-7606979 .form-line#id_10,body.aid-7606193 .form-line#id_10,body.aid-7606979 .form-line#id_11,body.aid-7606193 .form-line#id_11,body.aid-7606979 .form-line#id_12,body.aid-7606193 .form-line#id_12,body.aid-7606979 .form-line#id_15,body.aid-7606193 .form-line#id_15{float:left !important;clear:none !important;width:47.5% !important;margin-left:4% !important;}
+}
 body.aid-7606979 .form-line#id_13,body.aid-7606193 .form-line#id_13{clear:both;}
 body.aid-7606979 .form-line#id_22,body.aid-7606193 .form-line#id_22{clear:both;}
 body.aid-7606979 .form-line#id_13 .form-radio-item,body.aid-7606193 .form-line#id_13 .form-radio-item{display:inline-block !important;float:none !important;width:48% !important;clear:none !important;vertical-align:top;}
