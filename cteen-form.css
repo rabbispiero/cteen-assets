@@ -102,7 +102,7 @@ body.aid-7606979 .form-all .form-submit-button,body.aid-7606193 .form-all .form-
 }
 
 /* === v9: centered hero/heads, icons, maps link, FAQ toggle, big donation intro, paired fields, banner tweaks === */
-body.aid-7606979 .form-line#id_24,body.aid-7606193 .form-line#id_24{border-bottom:none !important;}
+body.aid-7606979 .form-line#id_24,body.aid-7606193 .form-line#id_24,body.aid-7606979 .form-line#id_23,body.aid-7606193 .form-line#id_23{border-bottom:none !important;}
 body.aid-7606979 .mn-welcome,body.aid-7606193 .mn-welcome{display:block;text-align:center;}
 body.aid-7606979 .mn-welcome p.mn-kicker,body.aid-7606193 .mn-welcome p.mn-kicker{text-align:center;}
 body.aid-7606979 .mn-welcome p.mn-title,body.aid-7606193 .mn-welcome p.mn-title{margin:4px 0 14px;}
